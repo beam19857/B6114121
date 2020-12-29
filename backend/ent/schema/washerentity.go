@@ -6,6 +6,9 @@ import "github.com/facebookincubator/ent"
 type WasherEntity struct {
 	ent.Schema
 }
+//this is lab
+
+
 
 // Fields of the WasherEntity.
 func (WasherEntity) Fields() []ent.Field {
